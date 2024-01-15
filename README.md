@@ -1,1 +1,6 @@
 # gitit2
+j'écris depuis mon hp, en utilisant visual studio .....
+
+Bon j'écris encore après avoir staged/
+
+Changes again....
