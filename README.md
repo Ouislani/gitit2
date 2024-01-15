@@ -6,3 +6,5 @@ Bon j'écris encore après avoir staged/
 Changes again....
 
 i write again here 
+
+Commit bidon 1
